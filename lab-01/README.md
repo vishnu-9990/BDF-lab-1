@@ -1,45 +1,34 @@
-
-# Lab 1: Node.js and Express server
+# BDF Lab 1 - Node.js and Express Server
 
 ## Student Details
-- Name:G vishnu vardhan
-- Registration Number:252U1R8026
-- Section: CSE QE-2A
+- Name: G. Vishnu Vardhan
+- Section: CSE-QE-2A
 
-## Objective
-To create a Node.js HTTP server and an Express server
-with routes and appropriate status codes.
+## Project Description
+This project demonstrates creating a basic HTTP server using Node.js and Express.js.
 
-## How to Run
-1. Install Node.js.
-2. Open the lab-01 folder in the terminal.
-3. Run npm install.
-4. Run node server.js.
-5. Open http://localhost:3000 in a browser.
+## Routes
+- `/` - Home page
+- `/about` - Student details
+- `/time` - Current server time
+- `/hello` - Tests the 404 response
 
-## Endpoints
-
-| Method | Path | Description |
-|--------|------|-------------|
-| GET | / | Displays welcome message |
-| GET | /about | Displays name and section |
-| GET | /time | Displays current date and time |
-| GET | /hello | Tests the 404 response |
-
-## Screenshots
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/01-home.png)
+![Home](screenshots/01-home.png)
 
 ### About Page
-![About Page](screenshots/02-about.png)
+![About](screenshots/02-about.png)
 
 ### Time Page
-![Time Page](screenshots/03-time.png)
+![Time](screenshots/03-time.png)
 
 ### 404 Response
-![404 Response](screenshots/04-response.png)
+![404](screenshots/04-response.png)
 
-## Notes
-Tested the Express routes and checked their status codes.
+## Live Website
+Add your Render URL here after deployment.
+
+## GitHub Repository
+https://github.com/vishnu-9990/BDF-lab-1
