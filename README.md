@@ -28,17 +28,21 @@ with routes and appropriate status codes.
 
 ## Screenshots
 
+# Lab 1: Node.js and Express Server
+
+## Screenshots
+
 ### Home Page
-![Home Page](screenshots/01-home.png)
+![Home](lab-01/screenshots/01-home.png)
 
 ### About Page
-![About Page](screenshots/02-about.png)
+![About](lab-01/screenshots/02-about.png)
 
 ### Time Page
-![Time Page](screenshots/03-time.png)
+![Time](lab-01/screenshots/03-time.png)
 
 ### 404 Response
-![404 Response](screenshots/04-response.png)
+![404](lab-01/screenshots/04-response.png)
 
 ## Notes
 Tested the Express routes and checked their status codes.
