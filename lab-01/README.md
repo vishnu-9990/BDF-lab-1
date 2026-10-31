@@ -27,10 +27,19 @@ with routes and appropriate status codes.
 | GET | /hello | Tests the 404 response |
 
 ## Screenshots
-![Home](screenshots/home.png)
-![About](screenshots/about.png)
-![Time](screenshots/time.png)
-![Not Found](screenshots/not-found.png)
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/01-home.png)
+
+### About Page
+![About Page](screenshots/02-about.png)
+
+### Time Page
+![Time Page](screenshots/03-time.png)
+
+### 404 Response
+![404 Response](screenshots/04-response.png)
 
 ## Notes
 Tested the Express routes and checked their status codes.
